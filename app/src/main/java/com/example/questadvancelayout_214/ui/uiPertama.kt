@@ -149,6 +149,12 @@ fun ActivitasPertama(modifier: Modifier = Modifier){
                             color = Color.White,
                             modifier = Modifier.padding(top = 15.dp)
                         )
+                        Text(
+                            text = "Isi Alamat",
+                            fontSize = 18.sp,
+                            color = Color.Cyan,
+                            modifier = Modifier.padding(top = 5.dp)
+                        )
 
                     }
 
