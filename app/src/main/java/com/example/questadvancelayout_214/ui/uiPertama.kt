@@ -99,7 +99,14 @@ fun ActivitasPertama(modifier: Modifier = Modifier){
                         .padding(5.dp)
                 )
                 Spacer(modifier = Modifier.width(30.dp))
-                Column{
+                Column(){
+                    Text(
+                        text = "Isi Nama",
+                        fontSize = 28.sp,
+                        fontFamily = FontFamily.Serif,
+                        color = Color.White,
+                        modifier = Modifier.padding(top = 15.dp)
+                    )
 
                 }
 
