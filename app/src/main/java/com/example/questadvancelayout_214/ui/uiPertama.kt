@@ -155,6 +155,12 @@ fun ActivitasPertama(modifier: Modifier = Modifier){
                             color = Color.Cyan,
                             modifier = Modifier.padding(top = 5.dp)
                         )
+                        Text(
+                            text = "Isi No Handphone",
+                            fontSize = 18.sp,
+                            color = Color.White,
+                            modifier = Modifier.padding(top = 5.dp)
+                        )
 
                     }
 
