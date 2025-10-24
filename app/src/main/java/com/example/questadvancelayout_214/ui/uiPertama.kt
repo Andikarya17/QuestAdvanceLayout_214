@@ -89,6 +89,9 @@ fun ActivitasPertama(modifier: Modifier = Modifier){
                 containerColor = Color(0xFF1E3A8A) // biru navy
             )
         ) {
+            Row{
+
+            }
 
         }
 
